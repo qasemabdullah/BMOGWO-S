@@ -1,5 +1,8 @@
 # BMOGWO-S
 Binary Multi-Objective Grey Wolf Optimizer for Feature Selection in Classification
+
+
+
 MATLAB code for BMOGWO-S: Binary Multi-objective Grey Wolf Optimizer for Feature selection in Classification
 Paper Reference - Q. Al-Tashi et al., “Binary Multi-Objective Grey Wolf Optimizer for Feature Selection in Classification,” IEEE Access, vol. 8, pp. 106247–106263, 2020.
 Link for algorithm details: Paper
